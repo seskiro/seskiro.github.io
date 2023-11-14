@@ -1,0 +1,36 @@
+.header {
+    padding: 30 px 0 px;
+    display: flex;
+    background-color: brown;
+}
+
+
+.footer {
+    padding: 30 px 0 px;
+    display: flex;
+    background-color: black;
+}
+
+.main {
+    display: flex;
+}
+
+.left-aside {
+    width: 25%;
+    display: flex;
+    justify-self: center;
+    align-items: center;
+    background-color: aqua;
+}
+.right.aside {
+    width: 25%;
+    display: flex;
+    justify-self: center;
+    align-items: center;
+    background-color: red;
+
+}
+
+.content{
+    
+}

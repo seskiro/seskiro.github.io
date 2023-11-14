@@ -1,0 +1,39 @@
+.logo img {
+    max-height: 100px;
+    max-width: 100px;
+    object-fit: contain;
+    
+}
+.start-image img {
+    width: 400px ;
+    height: 300px;
+    object-fit: cover;
+}
+
+.wrapper {
+    max-width: 1170px;
+    margin: 0px auto;
+}
+.menu-item {
+    display: inline;
+    margin-right: 30px;
+}
+
+.start-item {
+    display: inline;
+    margin-right: 30px;
+}
+
+.start-comics-item {
+    border: 1px solid #333;
+    padding: 50px 30px;
+    margin-top: 50px;
+    border-radius: 14px;
+    box-shadow: 32px -19px 10px 0px rgba(0, 0, 0, 0.28);
+    transition: all .3s ease-in-out;
+}
+.start-comics-item:hover{
+    border-color: crimson;
+    box-shadow: 32px -19px 10px 0px rgba(255, 0, 0, 0.28);
+
+}
